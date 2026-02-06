@@ -1,0 +1,3 @@
+/home/farouk/Downloads/education/bugs project/attacker/build/CMakeFiles/AttackerAppCLI.dir
+/home/farouk/Downloads/education/bugs project/attacker/build/CMakeFiles/edit_cache.dir
+/home/farouk/Downloads/education/bugs project/attacker/build/CMakeFiles/rebuild_cache.dir
